@@ -1,0 +1,19 @@
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\bin\Debug\Eşleştirme Oyunu.exe.config
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\bin\Debug\Eşleştirme Oyunu.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\bin\Debug\Eşleştirme Oyunu.pdb
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme Oyunu.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme_Oyunu.Form1.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme_Oyunu.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme Oyunu.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme Oyunu.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme Oyunu.pdb
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme_Oyunu.fr1.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme_Oyunu.fr2.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\bin\Debug\Interop.WMPLib.dll
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Interop.WMPLib.dll
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme Oyunu.csproj.ResolveComReference.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme_Oyunu.fr3.resources
