@@ -58,6 +58,54 @@
     <Compile Include="fr1.Designer.cs">
       <DependentUpon>fr1.cs</DependentUpon>
     </Compile>
+    <Compile Include="fr10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr10.Designer.cs">
+      <DependentUpon>fr10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr11.Designer.cs">
+      <DependentUpon>fr11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr12.Designer.cs">
+      <DependentUpon>fr12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr13.Designer.cs">
+      <DependentUpon>fr13.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr14.Designer.cs">
+      <DependentUpon>fr14.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr15.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr15.Designer.cs">
+      <DependentUpon>fr15.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr16.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr16.Designer.cs">
+      <DependentUpon>fr16.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr17.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr17.Designer.cs">
+      <DependentUpon>fr17.cs</DependentUpon>
+    </Compile>
     <Compile Include="fr2.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -70,6 +118,42 @@
     <Compile Include="fr3.Designer.cs">
       <DependentUpon>fr3.cs</DependentUpon>
     </Compile>
+    <Compile Include="fr4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr4.Designer.cs">
+      <DependentUpon>fr4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr5.Designer.cs">
+      <DependentUpon>fr5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr6.Designer.cs">
+      <DependentUpon>fr6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr7.Designer.cs">
+      <DependentUpon>fr7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr8.Designer.cs">
+      <DependentUpon>fr8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr9.Designer.cs">
+      <DependentUpon>fr9.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -78,11 +162,53 @@
     <EmbeddedResource Include="fr1.resx">
       <DependentUpon>fr1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="fr10.resx">
+      <DependentUpon>fr10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr11.resx">
+      <DependentUpon>fr11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr12.resx">
+      <DependentUpon>fr12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr13.resx">
+      <DependentUpon>fr13.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr14.resx">
+      <DependentUpon>fr14.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr15.resx">
+      <DependentUpon>fr15.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr16.resx">
+      <DependentUpon>fr16.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr17.resx">
+      <DependentUpon>fr17.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="fr2.resx">
       <DependentUpon>fr2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="fr3.resx">
       <DependentUpon>fr3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr4.resx">
+      <DependentUpon>fr4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr5.resx">
+      <DependentUpon>fr5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr6.resx">
+      <DependentUpon>fr6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr7.resx">
+      <DependentUpon>fr7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr8.resx">
+      <DependentUpon>fr8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr9.resx">
+      <DependentUpon>fr9.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -221,6 +347,78 @@
       <Isolated>False</Isolated>
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sekiller %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sekiller %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sekiller %283%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sekiller %284%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sekiller %285%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sekiller %286%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sekiller %287%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sekiller %288%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sekiller %289%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sekiller %2810%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meyve %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meyve %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meyve %283%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meyve %284%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meyve %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meyve %286%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meyve %287%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meyve %288%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meyve %289%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meyve %2810%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meyve %2811%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meyve %2812%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meyve %2813%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meyve %2814%29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

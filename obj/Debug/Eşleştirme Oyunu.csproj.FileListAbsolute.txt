@@ -17,3 +17,17 @@ C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\ob
 C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\AxInterop.WMPLib.dll
 C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme Oyunu.csproj.ResolveComReference.cache
 C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme_Oyunu.fr3.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme_Oyunu.fr4.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme_Oyunu.fr5.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme_Oyunu.fr6.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme_Oyunu.fr10.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme_Oyunu.fr11.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme_Oyunu.fr12.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme_Oyunu.fr13.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme_Oyunu.fr14.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme_Oyunu.fr15.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme_Oyunu.fr16.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme_Oyunu.fr17.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme_Oyunu.fr7.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme_Oyunu.fr8.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Eşleştirme Oyunu\Eşleştirme Oyunu\obj\Debug\Eşleştirme_Oyunu.fr9.resources

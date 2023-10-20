@@ -317,7 +317,7 @@
             // pictureBox8
             // 
             this.pictureBox8.Image = global::Eşleştirme_Oyunu.Properties.Resources.indir__6_;
-            this.pictureBox8.Location = new System.Drawing.Point(374, 350);
+            this.pictureBox8.Location = new System.Drawing.Point(284, 49);
             this.pictureBox8.Name = "pictureBox8";
             this.pictureBox8.Size = new System.Drawing.Size(76, 93);
             this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -350,7 +350,7 @@
             // pictureBox5
             // 
             this.pictureBox5.Image = global::Eşleştirme_Oyunu.Properties.Resources.indir__2_;
-            this.pictureBox5.Location = new System.Drawing.Point(284, 249);
+            this.pictureBox5.Location = new System.Drawing.Point(374, 150);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(76, 93);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -361,7 +361,7 @@
             // pictureBox4
             // 
             this.pictureBox4.Image = global::Eşleştirme_Oyunu.Properties.Resources.indir__11_;
-            this.pictureBox4.Location = new System.Drawing.Point(374, 147);
+            this.pictureBox4.Location = new System.Drawing.Point(284, 251);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(76, 93);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -394,7 +394,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::Eşleştirme_Oyunu.Properties.Resources.indir;
-            this.pictureBox1.Location = new System.Drawing.Point(284, 46);
+            this.pictureBox1.Location = new System.Drawing.Point(374, 350);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(76, 93);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -439,6 +439,8 @@
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "fr2";
             this.Text = "Colors - Renkler";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).EndInit();

@@ -389,6 +389,8 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button22);
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "fr3";
             this.Text = "The Alphabet - Alfabe";
             this.Load += new System.EventHandler(this.fr3_Load);
